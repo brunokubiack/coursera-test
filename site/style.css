@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    color: green;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul.css_link_test a:link, ul.css_link_test a:visited {
+    color: green;
+}
+
+
+#section2 :nth-child(5) {
+    color: #053d03;
+    font-style: italsic;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+    width: 700px;
+}
+
